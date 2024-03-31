@@ -137,14 +137,17 @@ main .left,main .right{align-self: end}
     height: 41.5px;
 }
 .left-LOGO > a{
-    width: 133px !important;
+    /* width: 133px !important; */
     height: fit-content !important;
-    /* border: #ff0000 solid; */
+    /* border: #00ff00 solid; */
+    min-width: 130px;
+    max-width: 150px !important;
 }
 .left-LOGO{
-    /* border: #0000ff solid !important; */
+    border: #ff0000 solid !important;
     max-width: 280px !important;
 }
+.left{border: solid #0000ff;}
 
 main .left,main .right{
     width: 100%;
