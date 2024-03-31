@@ -265,12 +265,12 @@ main .gallary{background-color: #FFF;}
     line-height: 28px;
     border: solid #fff; 
 }
-
 .float{
     /* border: solid #ff0000; */
-    width: calc(100% - 20px);
-    height: 70px;
+    /* width: calc(100% - 20px); */
+    height: 55px;
     background-color: #001539;
+    border-radius: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -288,7 +288,6 @@ main .gallary{background-color: #FFF;}
     align-items: center;
     padding: 5px;
     margin-left: 8px;
-
 }
 
 .float a,span{

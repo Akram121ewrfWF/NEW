@@ -33,5 +33,17 @@ dark.addEventListener('dblclick', function(){
     nav_dark.style.background = '#fff';
     section_one.style.background = "#FFF"
     footer_dark.style.background = '#fff';
+    h2_dark[0].style.color ='#FFF';
+    h2_dark[1].style.color ='#FFF';
+    h2_dark[2].style.color ='#FFF';
+    h2_dark[3].style.color ='#FFF';
+    h2_dark[4].style.color ='#FFF';
+    h2_dark[5].style.color ='#FFF';
+    h2_dark[6].style.color ='#FFF';
+    h2_dark[7].style.color ='#FFF';
+    h2_dark[8].style.color ='#FFF';
+    h2_dark[9].style.color ='#FFF';
+    h2_dark[10].style.color ='#FFF';
+    h2_dark[11].style.color ='#FFF';
 }); 
 }  

@@ -12,6 +12,7 @@ header{
     height: 30;
     background-color: #eeeeee;
     /* border: solid #f98701; */
+    box-shadow: 0 0 10px #000;
 }
 
 .flex-header{
@@ -25,7 +26,6 @@ header{
     padding: 5px 15px;
     background-color: #fff;
 }
-.header-right  i {border: solid #0000ff !important}
 
 .header-left{
     border-radius: 0 0 99px 0; 
@@ -76,7 +76,6 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 5px;
-
 }
 
 .icone-left  a i{
@@ -114,7 +113,6 @@ nav{
     top: 0px;
     z-index: 1;
     margin-bottom: 5px;
-    
 }
 
 nav ul li a{
@@ -326,7 +324,6 @@ main .gallry .line-one a {
 
 footer{
     background: linear-gradient(to right, #ebebeb,#ececec,#ededed,#eeeeee,#efefef,#f0f0f0,#f1f1f1,#f2f2f2,#f3f3f3,#f4f4f4,#f5f5f5,#f6f6f6,#f7f7f7,#f8f8f8,#f9f9f9,#fafafa,#fbfbfb,#fcfcfc,#fdfdfd,#ffffff,#fefefe,)
-
 }
 .flex-column > .icone-left{
     width: 72% ;
