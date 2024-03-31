@@ -325,7 +325,10 @@ nav{display: none;}
     .left-LOGO > a{
         width: 100px !important;
         height: fit-content !important;
+        border: solid #0000ff;
     }
+    .left-LOGO{border:solid #ff0000}
+    .left{border: solid green}
     main .left,main .right{
         width: 100%;
     }
